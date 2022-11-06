@@ -9,6 +9,12 @@ import org.springframework.web.bind.annotation.*;
 public class HelloController {
 
     /*
+    Endereços de teste.
+    http://localhost:8080/response/get
+    http://localhost:8080/response/post
+    http://localhost:8080/response/put
+    http://localhost:8080/response/delete
+
     Json para teste no postman.
     {
     "mensagem": "Hello World"
